@@ -31,10 +31,14 @@ h1 {
 }
 
 .list {
-  margin-left: 0%;
   line-height: 0%;
+  margin: auto;
 }
 
+.coloumn-small {
+  width: 30%;
+  text-align: left;
+}
 .row-head {
   background-color: #159ffaf6;
   color: white;
