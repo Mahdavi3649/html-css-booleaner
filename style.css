@@ -5,6 +5,12 @@
   height: 120px;
 }
 
+.scritto {
+  color: gray;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 0%;
+}
+
 .logo {
   width: 105px;
   position: absolute;
@@ -16,4 +22,54 @@
 
 h1 {
   font-weight: 900;
+  font-size: xx-large;
+}
+
+.des-line {
+  line-height: 0%;
+  margin-top: 5px;
+}
+
+.list {
+  margin-left: 0%;
+  line-height: 0%;
+}
+
+.row-head {
+  background-color: #159ffaf6;
+  color: white;
+}
+
+.color-row {
+  background-color: #a8c9fa;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+h3 {
+  color: gray;
+}
+
+.graph-photo {
+  display: block;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.container {
+  position: relative;
+  text-align: left;
+  color: white;
+  font-weight: 800;
+}
+
+.simple-highlight {
+  background-color: yellow;
+  padding: 0.1em 0.2em;
 }
