@@ -1,0 +1,19 @@
+#site-header {
+  background-color: rgb(13, 125, 230);
+  background-image: url(img/pattern.png);
+  background-repeat: repeat-x;
+  height: 120px;
+}
+
+.logo {
+  width: 105px;
+  position: absolute;
+}
+
+.author {
+  color: #639bf0;
+}
+
+h1 {
+  font-weight: 900;
+}
